@@ -73,6 +73,7 @@
 }
 
 .heading{
+    font-family: Arial;
     margin: 100px 0 0 120px;
     font-size: 30px;
     font-weight: bolder;
@@ -118,8 +119,6 @@
 
 .buy ul li a:hover{
     border-radius: 40px;
-    padding: 20px 60px;
     background-color: rgb(42, 194, 138);
     transition: 1s;
 }
-
