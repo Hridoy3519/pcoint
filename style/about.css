@@ -5,7 +5,8 @@
     background-color: rgb(35,38,45);
     float: left;
     color: white; 
-    font-family: Arial, Helvetica, sans-serif;
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-family: 'Poppins', sans-serif;
     text-align: center;
 }
 
@@ -29,7 +30,7 @@
     background-color: black;
 }
 
-.buy ul li a:hover{
+.second .buy ul li a:hover{
     background-color: rgb(189,105,131);
     transition: 1s;
 }
