@@ -1,6 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
+    /* font-family: 'Poppins', sans-serif; */
 }
 
 .nav{
@@ -65,7 +66,8 @@
 } 
 
 .Logo{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-family: 'Baloo Chettan', cursive;
     font-size: 25px;
     font-weight: 1200;
     margin: 45px 0 0 120px;
@@ -73,7 +75,8 @@
 }
 
 .heading{
-    font-family: Arial;
+    /* font-family: Arial; */
+    font-family: 'Baloo Chettan', cursive;
     margin: 100px 0 0 120px;
     font-size: 30px;
     font-weight: bolder;
@@ -87,7 +90,8 @@
 .lower{
     margin: 50px 0 0 120px;
     font-size: 18px;
-    font-family: Arial;
+    /* font-family: Arial; */
+    font-family: 'Baloo Chettan', cursive;
     color: rgb(41, 38, 38);
 }
 
@@ -96,6 +100,7 @@
 }
 
 #col{
+    font-family: 'Baloo Chettan', cursive;
     color: rgb(42, 194, 138);
 }
 .buy{
